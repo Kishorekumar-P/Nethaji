@@ -43,3 +43,11 @@
             background-color: rgba(0, 0, 0, 0.5);
             height: 100vh;
           }
+          .logo{
+            align-items: center;
+            justify-content: space-evenly;
+          }
+          .logo .card{
+            border: none;
+            text-align: center;
+          }
